@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Y List</string>
+    <string name="copyright">By signing in, you agree with our <a href="https://goo.gl/ZL7zb7"> terms of service </a></string>
+    <string name="step1">1. Sign up by confirming your Yale email</string>
+    <string name="step2">2. Once confirmed you can access others who are looking</string>
+    <string name="step3">3. Swipe right on people you have a crush on</string>
+    <string name="step4">4. On match day you can see everyone you matched with!</string>
+    <string name="howitworks">How it works</string>
+    <string name="login_text">Login using your Y List account</string>
+    <string name="register_text">Register using your Yale email</string>
+</resources>
